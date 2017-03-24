@@ -33,24 +33,25 @@ First things first -- here's your to-do list:
 
 - [ ] Delete this to-do list.
 
-## [[Your project name goes here]]
-Your organization name goes here
 
-## Purpose
-Your purpose goes here
+## WGBH
+
+## We build knowledge, understanding & engagement with the world through media
+
 
 ## Description 
-Your project description goes here
+Using the PBS Learning Media Platform, to advance and improve STEM education in K-12 by transforming science teachers consuming what the platform offers in to science educators who contribute to it in an open community.
 
 ## People
 List the people working on your project here, like this:
 - Katherine McConachie, [@kitsandkats](https://github.com/kitsandkats)
 - Philipp Schmidt, [@1l2p](https://github.com/1l2p)
+- Bob Kempf, [@rpkempf] (https://github.com/rpkempf)
 
 ## Community Segments 
-Your community segments go here
+K-12 Science educators
   ### Early Adopters
-  Your early adopters go here
+  Massachusetts science educators
 
 ## Open Advantage
-Your open advantage goes here
+The existing audience, 1.9M educators (500k science educators)
